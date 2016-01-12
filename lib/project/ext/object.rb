@@ -19,7 +19,7 @@ class Object
     rmq(*args).get
   end
 
-  def screen
-    rmq.screen
-  end
+  # def screen
+  #   rmq.screen
+  # end
 end
